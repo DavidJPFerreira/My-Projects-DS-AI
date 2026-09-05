@@ -1,2 +1,2 @@
 # My-Projects-DS-AI
-Projects about Data Science &amp; AI - Made at university.
+This diverse portfolio showcases advanced applications of artificial intelligence, data science, and user experience design across multiple domains. It features machine learning models for quantitative finance, Spotify recommendations, and facial emotion classification, alongside reinforcement learning for autonomous pathfinding and generative AI for image augmentation. Furthermore, the collection highlights a Portuguese NLP question-answering system, interactive automotive data visualizations, and professional CX journey maps. Together, these projects demonstrate comprehensive expertise in solving complex technical, analytical, and human-centric business challenges.
